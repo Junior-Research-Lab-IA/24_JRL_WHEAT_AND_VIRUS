@@ -4,5 +4,6 @@
 ![image de virus](https://www.quebecscience.qc.ca/wp-content/uploads/2020/04/virus-wiki.jpg)
 - Faire un titre
 - mettre une image
+    - learn French
 - être **créatif**
 - [trello](https://trello.com/u/wheatandvirus/boards)
